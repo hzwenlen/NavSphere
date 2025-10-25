@@ -1348,6 +1348,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1761376001353",
+      "title": "操作系统",
+      "icon": "Home",
+      "description": "操作系统",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

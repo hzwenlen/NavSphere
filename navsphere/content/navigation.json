@@ -201,14 +201,6 @@
               "description": "Transform text and images into immersive videos. Animate stories, visualize ideas, and bring your concepts to life.",
               "icon": "/assets/favicon_1760435422176.ico",
               "enabled": true
-            },
-            {
-              "id": "1760605598288",
-              "title": "veo-3",
-              "href": "https://aistudio.google.com/models/veo-3",
-              "description": "The fastest path from prompt to production with Gemini",
-              "icon": "/assets/favicon_1760605601454.png",
-              "enabled": true
             }
           ]
         },

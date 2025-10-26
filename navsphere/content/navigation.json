@@ -823,14 +823,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1759043324693",
-              "title": "Substack",
-              "href": "https://substack.com/",
-              "description": "The app for independent voices",
-              "icon": "/assets/favicon_1759043330135.svg",
-              "enabled": true
-            },
-            {
               "id": "1759043449477",
               "title": "小报童",
               "href": "https://xiaobot.net/",

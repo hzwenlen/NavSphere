@@ -99,8 +99,8 @@
               "id": "9_2",
               "title": "华为浏览器 - 华为官网",
               "href": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/mobileservices/browser/exe/HuaweiBrowser-12.1.4.300-signed.exe",
-              "description": "华为浏览器为用户提供集搜索、智能资讯推荐、导航、快应用服务于一体的优质服务体验：通过汇聚众多媒体伙伴，带来可信专业的资讯，同时会根据用户偏好，个性化地呈现更多元丰富的内容；强大的安全隐私保护，为用户提供安全无忧的浏览体验；同时支持用户自行组合、使用快应用功能，获得定制化服务体验。",
-              "icon": "/assets/favicon_1767272555887.png",
+              "description": "访问 consumer.huawei.com",
+              "icon": "/assets/favicon_1768051906994.png",
               "enabled": true
             },
             {

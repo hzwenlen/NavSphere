@@ -15,10 +15,10 @@
         },
         {
           "id": "1_3",
-          "title": "Cloudflare---静态网站免费托管",
+          "title": "cloudflare",
           "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-          "icon": "/assets/images/logos/cloudflar.ico",
+          "description": "访问 dash.cloudflare.com",
+          "icon": "/assets/favicon_1768051779387.png",
           "enabled": true
         },
         {

@@ -7,10 +7,10 @@
       "items": [
         {
           "id": "1_2",
-          "title": "DNSHE | 永久免费的域名",
+          "title": "DNSHE | 永久免费的域名注册与 DNS 解析服务",
           "href": "https://www.dnshe.com/",
           "description": "DNSHE 提供永久免费的域名注册服务。支持 A, CNAME, MX, TXT, NS 等全类型 DNS 记录解析，即时生效，API 驱动，专为开发者、学生和开源项目打造。",
-          "icon": "/assets/favicon_1767273101200.png",
+          "icon": "/assets/favicon_1768051758787.png",
           "enabled": true
         },
         {

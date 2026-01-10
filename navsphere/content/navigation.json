@@ -733,33 +733,6 @@
       ]
     },
     {
-      "id": "1735433560958",
-      "title": "自媒体工具包",
-      "icon": "Video",
-      "description": "自媒体工具包",
-      "enabled": false,
-      "items": [
-        {
-          "id": "1767360361673",
-          "title": "NaviHive 个人网站导航管理系统",
-          "href": "https://github.com/zqq-nuli/Cloudflare-Navihive",
-          "description": "NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。 - zqq-nuli/Cloudflare-Navihive",
-          "icon": "/assets/favicon_1767360372828.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": [
-        {
-          "id": "9dc0b247-bcb5-4cd3-99ee-67547c05145b",
-          "title": "网站建设",
-          "icon": "Link",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",

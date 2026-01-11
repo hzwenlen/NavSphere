@@ -557,6 +557,14 @@
               "description": "BlackACE 黑桃A - 网站秒变APP",
               "icon": "/assets/favicon_1768124350401.png",
               "enabled": true
+            },
+            {
+              "id": "1768124435128",
+              "title": "小图钉Excel助手官网 |  Excel数据处理",
+              "href": "https://xtd.pro/",
+              "description": "还在被Excel复杂公式和VLOOKUP折磨？快用小图钉Excel助手！作为您的AI数据处理专家，小图钉Excel助手能让您通过自然语言，5分钟完成过去2小时的数据查找、报表汇总。告别加班，就从选择小图钉Excel助手开始。",
+              "icon": "/assets/favicon_1768124449509.ico",
+              "enabled": true
             }
           ]
         }

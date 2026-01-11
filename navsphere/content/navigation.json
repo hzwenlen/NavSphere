@@ -585,6 +585,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1768125086289",
+      "title": "互联网云",
+      "icon": "FolderKanban",
+      "description": "互联网云",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

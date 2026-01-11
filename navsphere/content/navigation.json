@@ -362,15 +362,6 @@
       "enabled": true
     },
     {
-      "id": "1768125086289",
-      "title": "互联网云",
-      "icon": "FolderKanban",
-      "description": "互联网云",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1761376001353",
       "title": "操作系统",
       "icon": "Home",
@@ -450,6 +441,15 @@
           "enabled": true
         }
       ],
+      "subCategories": []
+    },
+    {
+      "id": "1768125086289",
+      "title": "互联网云",
+      "icon": "FolderKanban",
+      "description": "互联网云",
+      "enabled": true,
+      "items": [],
       "subCategories": []
     },
     {

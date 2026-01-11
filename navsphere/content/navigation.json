@@ -423,6 +423,14 @@
           "description": "在兼容的 Mac 电脑上下载并安装最新或以前版本的 Mac 操作系统。",
           "icon": "/assets/favicon_1768053100421.ico",
           "enabled": true
+        },
+        {
+          "id": "1768124587762",
+          "title": "virtualbox Oracle虚拟机",
+          "href": "https://download.virtualbox.org/virtualbox/",
+          "description": "virtualbox Oracle虚拟机",
+          "icon": "/assets/favicon_1768124591324.png",
+          "enabled": true
         }
       ],
       "subCategories": []

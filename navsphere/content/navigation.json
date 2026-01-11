@@ -473,6 +473,14 @@
           "description": "Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE!",
           "icon": "/assets/favicon_1768125546286.ico",
           "enabled": true
+        },
+        {
+          "id": "1768125585237",
+          "title": "WGCLOUD - 运维监控系统 - 官网",
+          "href": "https://www.wgstart.com/",
+          "description": "WGCLOUD是新一代运维监控系统（可观测监控平台），极简、轻量、高效，专注Linux、Windows等服务器主机的性能监测和健康分析，实时故障告警通知。WGCLOUD部署使用简单、分布式、开源、免注册、也可内网运行，完全私有化本地部署。我们的愿景是让运维工作简单高效，人人都可以零基础搭建自己的运维监控平台，高效管理主机和服务器",
+          "icon": "/assets/favicon_1768125589090.png",
+          "enabled": true
         }
       ],
       "subCategories": []

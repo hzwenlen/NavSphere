@@ -449,7 +449,16 @@
       "icon": "FolderKanban",
       "description": "互联网云",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1768125126789",
+          "title": "GMSSH —— 智能运维的新起点",
+          "href": "https://www.gm.cn/",
+          "description": "访问 www.gm.cn  GMSSH —— 智能运维的新起点",
+          "icon": "/assets/favicon_1768125167361.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {

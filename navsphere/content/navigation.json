@@ -431,6 +431,14 @@
           "description": "virtualbox Oracle虚拟机",
           "icon": "/assets/favicon_1768124591324.png",
           "enabled": true
+        },
+        {
+          "id": "1768124907529",
+          "title": "VMware by Broadcom - 虚拟机",
+          "href": "https://www.vmware.com/",
+          "description": "Optimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security.",
+          "icon": "/assets/favicon_1768124910879.png",
+          "enabled": true
         }
       ],
       "subCategories": []

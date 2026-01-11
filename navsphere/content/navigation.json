@@ -457,6 +457,14 @@
           "description": "访问 www.gm.cn  GMSSH —— 智能运维的新起点",
           "icon": "/assets/favicon_1768125167361.png",
           "enabled": true
+        },
+        {
+          "id": "1768125262369",
+          "title": "Proxmox Virtual Environment 虚拟化平台",
+          "href": "https://www.proxmox.com/",
+          "description": "访问 enterprise.proxmox.com",
+          "icon": "/assets/img_1768125507734.png",
+          "enabled": true
         }
       ],
       "subCategories": []

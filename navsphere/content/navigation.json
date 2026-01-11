@@ -663,6 +663,14 @@
               "description": "还在被Excel复杂公式和VLOOKUP折磨？快用小图钉Excel助手！作为您的AI数据处理专家，小图钉Excel助手能让您通过自然语言，5分钟完成过去2小时的数据查找、报表汇总。告别加班，就从选择小图钉Excel助手开始。",
               "icon": "/assets/favicon_1768124449509.ico",
               "enabled": true
+            },
+            {
+              "id": "1768133122573",
+              "title": "纸由我 PaperMe - 自定义打印纸生成器",
+              "href": "https://paperme.toolooz.com/",
+              "description": "免费在线创建和打印自定义纸张。设计横线纸、方格纸、点阵纸、音乐纸等多种类型，调整大小、颜色和间距，满足您的所有需求。",
+              "icon": "/assets/favicon_1768133126076.ico",
+              "enabled": true
             }
           ]
         }

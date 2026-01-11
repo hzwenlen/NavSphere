@@ -505,7 +505,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "1768124226123",
+          "title": "SoftEther VPN Project - 免费VPN服务端客户端",
+          "href": "https://www.softether.org/",
+          "description": "SoftEther VPN Project - 免费VPN服务端客户端",
+          "icon": "/assets/favicon_1768124229173.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true

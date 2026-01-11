@@ -505,6 +505,14 @@
           "description": "访问 1panel.cn",
           "icon": "/assets/favicon_1768125803370.png",
           "enabled": true
+        },
+        {
+          "id": "1768125857602",
+          "title": "cPanel: The Hosting Platform of Choice for Website Management",
+          "href": "https://www.cpanel.net/",
+          "description": "Powerful, reliable web hosting with cPanel &amp; WHM. 20+ years of trust, top-tier support, and key partners like WordPress, CloudLinux, and more.",
+          "icon": "/assets/favicon_1768125861037.png",
+          "enabled": true
         }
       ],
       "subCategories": []

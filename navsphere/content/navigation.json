@@ -465,6 +465,14 @@
           "description": "访问 enterprise.proxmox.com",
           "icon": "/assets/img_1768125507734.png",
           "enabled": true
+        },
+        {
+          "id": "1768125542342",
+          "title": "UptimeRobot: Free Website Monitoring Service",
+          "href": "https://uptimerobot.com/",
+          "description": "Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE!",
+          "icon": "/assets/favicon_1768125546286.ico",
+          "enabled": true
         }
       ],
       "subCategories": []

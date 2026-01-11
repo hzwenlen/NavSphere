@@ -513,6 +513,14 @@
           "description": " cPanel 强大的自动化功能、灵活的自定义选项和专业的支持服务，优化您的工作流程。",
           "icon": "/assets/favicon_1768125861037.png",
           "enabled": true
+        },
+        {
+          "id": "1768126577473",
+          "title": "FIT2CLOUD 飞致云",
+          "href": "https://community.fit2cloud.com/",
+          "description": "访问 community.fit2cloud.com开源产品\n基于创新的开源模式，向中国数字化团队交付被广泛验证、可信赖的通用工具软件。",
+          "icon": "/assets/favicon_1768126582263.png",
+          "enabled": true
         }
       ],
       "subCategories": []

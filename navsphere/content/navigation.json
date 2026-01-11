@@ -489,6 +489,14 @@
           "description": "访问 www.bt.cn",
           "icon": "/assets/favicon_1768125627194.png",
           "enabled": true
+        },
+        {
+          "id": "1768125690484",
+          "title": "小皮面板 Linux 口碑爆棚的老牌公益软件 ",
+          "href": "https://m.xp.cn/",
+          "description": "小皮面板\nLinux\n集安全、高效、稳定、功能于一体，助力LINUX服务器运维化繁为简",
+          "icon": "/assets/favicon_1768125695094.png",
+          "enabled": true
         }
       ],
       "subCategories": []

@@ -578,6 +578,14 @@
               "description": "访问 mp.weixin.qq.com",
               "icon": "/assets/favicon_1768053373735.png",
               "enabled": true
+            },
+            {
+              "id": "1768124084153",
+              "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+              "href": "https://www.runoob.com/",
+              "description": "菜鸟教程(www.runoob.com)提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识。 同时本站中也提供了大量的在线实例，通过实例，您可以更好的学习编程。..",
+              "icon": "/assets/favicon_1768124089850.ico",
+              "enabled": true
             }
           ]
         }

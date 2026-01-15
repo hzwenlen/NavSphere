@@ -719,6 +719,14 @@
               "description": "EyouCms是基于TP5.0框架为核心开发的稳定+开源的企业内容管理系统",
               "icon": "/assets/favicon_1768482186086.png",
               "enabled": true
+            },
+            {
+              "id": "1768482329083",
+              "title": "凤梨音乐- 无损音乐|MP3歌曲免费下载|音乐在线试听",
+              "href": "https://www.flmp3.com/",
+              "description": "凤梨音乐为广大音乐爱好者提供高音质无损音乐资源的一个音乐分享平台",
+              "icon": "/assets/favicon_1768482336664.ico",
+              "enabled": true
             }
           ]
         }

@@ -679,6 +679,14 @@
               "description": "风靡全国的拼团商城，优质商品新鲜直供，快来一起拼多多吧",
               "icon": "/assets/img_1768226302323.png",
               "enabled": true
+            },
+            {
+              "id": "1768480603676",
+              "title": "BuildCores: 3D电脑组装与配件选择器",
+              "href": "https://buildcores.com/",
+              "description": "3D电脑组装器与配件选择器。以最低价格查找兼容配件，购买前预览组装效果。",
+              "icon": "/assets/favicon_1768480611263.png",
+              "enabled": true
             }
           ]
         }

@@ -735,6 +735,14 @@
               "description": "访问 tonzhon.com 铜钟音乐网站",
               "icon": "/assets/favicon_1768482362957.png",
               "enabled": true
+            },
+            {
+              "id": "1768482494842",
+              "title": "Flac无损音乐下载",
+              "href": "https://flac.music.hi.cn/",
+              "description": "访问 flac.music.hi.cn无损音乐下载",
+              "icon": "/assets/favicon_1768482502927.png",
+              "enabled": true
             }
           ]
         }

@@ -751,6 +751,14 @@
               "description": "访问 www.wanpeidashi.com玩配大师",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.wanpeidashi.com",
               "enabled": true
+            },
+            {
+              "id": "1768482833332",
+              "title": "AI 一键生成人物个性头像",
+              "href": "https://www.krwoo.com/",
+              "description": "访问 www.krwoo.comAI 一键生成人物个性头像",
+              "icon": "/assets/favicon_1768482841862.png",
+              "enabled": true
             }
           ]
         }

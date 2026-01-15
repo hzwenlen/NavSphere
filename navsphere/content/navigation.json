@@ -759,6 +759,14 @@
               "description": "访问 www.krwoo.comAI 一键生成人物个性头像",
               "icon": "/assets/favicon_1768482841862.png",
               "enabled": true
+            },
+            {
+              "id": "1768482942912",
+              "title": "泡椒音乐-回家地址发布页",
+              "href": "https://pjmp3.de/",
+              "description": "泡椒音乐-回家地址发布页",
+              "icon": "/assets/img_1768482968785.png",
+              "enabled": true
             }
           ]
         }

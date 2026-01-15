@@ -711,6 +711,14 @@
               "description": "3D电脑组装器与配件选择器。以最低价格查找兼容配件，购买前预览组装效果。",
               "icon": "/assets/favicon_1768480611263.png",
               "enabled": true
+            },
+            {
+              "id": "1768482177994",
+              "title": "Eyoucms易优企业建站系统",
+              "href": "https://www.eyoucms.com/",
+              "description": "EyouCms是基于TP5.0框架为核心开发的稳定+开源的企业内容管理系统",
+              "icon": "/assets/favicon_1768482186086.png",
+              "enabled": true
             }
           ]
         }

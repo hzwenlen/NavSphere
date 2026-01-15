@@ -743,6 +743,14 @@
               "description": "访问 flac.music.hi.cn无损音乐下载",
               "icon": "/assets/favicon_1768482502927.png",
               "enabled": true
+            },
+            {
+              "id": "1768482552527",
+              "title": "玩配大师 股价式电脑配件售卖网",
+              "href": "https://www.wanpeidashi.com/",
+              "description": "访问 www.wanpeidashi.com玩配大师",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.wanpeidashi.com",
+              "enabled": true
             }
           ]
         }

@@ -727,6 +727,14 @@
               "description": "凤梨音乐为广大音乐爱好者提供高音质无损音乐资源的一个音乐分享平台",
               "icon": "/assets/favicon_1768482336664.ico",
               "enabled": true
+            },
+            {
+              "id": "1768482355077",
+              "title": "Tonzhon音乐",
+              "href": "https://tonzhon.com/",
+              "description": "访问 tonzhon.com 铜钟音乐网站",
+              "icon": "/assets/favicon_1768482362957.png",
+              "enabled": true
             }
           ]
         }

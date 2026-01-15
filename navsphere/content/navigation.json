@@ -521,6 +521,14 @@
           "description": "访问 community.fit2cloud.com开源产品\n基于创新的开源模式，向中国数字化团队交付被广泛验证、可信赖的通用工具软件。",
           "icon": "/assets/favicon_1768126582263.png",
           "enabled": true
+        },
+        {
+          "id": "1768481411490",
+          "title": "Komari 轻量级的服务器监控工具",
+          "href": "https://github.com/komari-monitor/komari",
+          "description": "Komari 是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过 Web 界面查看服务器状态，并通过轻量级 Agent 收集数据。",
+          "icon": "/assets/favicon_1768481418956.png",
+          "enabled": true
         }
       ],
       "subCategories": []

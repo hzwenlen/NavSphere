@@ -439,6 +439,14 @@
           "description": "Optimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security.",
           "icon": "/assets/favicon_1768124910879.png",
           "enabled": true
+        },
+        {
+          "id": "1768481542587",
+          "title": "如何重新安装 macOS - 官方 Apple 支持 (中国)",
+          "href": "https://support.apple.com/zh-cn/102655",
+          "description": "使用电脑的内建恢复系统“macOS 恢复”来重新安装 Mac 操作系统。",
+          "icon": "/assets/favicon_1768481557710.ico",
+          "enabled": true
         }
       ],
       "subCategories": []

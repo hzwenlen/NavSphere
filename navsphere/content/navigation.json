@@ -627,6 +627,14 @@
           "description": "SoftEther VPN Project - 免费VPN服务端客户端",
           "icon": "/assets/favicon_1768124229173.ico",
           "enabled": true
+        },
+        {
+          "id": "1768481643960",
+          "title": "rEFInd Boot Manager多系统启动工具",
+          "href": "http://www.rodsbooks.com/refind/",
+          "description": "rEFInd Boot Manager多系统选择启动工具",
+          "icon": "/assets/img_1768481766791.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

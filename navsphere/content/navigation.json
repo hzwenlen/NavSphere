@@ -767,6 +767,14 @@
               "description": "泡椒音乐-回家地址发布页",
               "icon": "/assets/img_1768482968785.png",
               "enabled": true
+            },
+            {
+              "id": "1768483066523",
+              "title": "Batocera.linux是一个开源且完全免费的复古游戏发行版",
+              "href": "https://www.batocera.org/",
+              "description": "Batocera.linux是一个开源且完全免费的复古游戏发行版，可以复制到U盘或SD卡上，目的是在游戏期间或永久地将任何计算机/纳米计算机变成游戏机。",
+              "icon": "/assets/favicon_1768483074807.png",
+              "enabled": true
             }
           ]
         }

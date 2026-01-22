@@ -635,6 +635,14 @@
           "description": "rEFInd Boot Manager多系统选择启动工具",
           "icon": "/assets/img_1768481766791.png",
           "enabled": true
+        },
+        {
+          "id": "1769089776130",
+          "title": "423Down设计软件之家",
+          "href": "https://www.423down.com/",
+          "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
+          "icon": "/assets/favicon_1769089808888.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],

@@ -839,6 +839,14 @@
               "description": "小故事铺是专业的故事阅读平台，提供睡前故事、儿童故事、历史故事、恐怖故事、爱情故事、励志故事等各类精彩小故事。免费在线阅读，每日更新优质故事内容。",
               "icon": "/assets/favicon_1769093540524.png",
               "enabled": true
+            },
+            {
+              "id": "1769093950201",
+              "title": "M3U8播放器 | M3U8下载器 | M3U8转MP4 - 免费在线工具",
+              "href": "https://m3u8-player.net/zh/",
+              "description": "专业M3U8/HLS在线播放器，支持M3U8下载、M3U8转MP4、直播点播、自适应码率、字幕播放列表。免安装即时使用，完全免费。",
+              "icon": "/assets/favicon_1769093979864.ico",
+              "enabled": true
             }
           ]
         }

@@ -643,6 +643,14 @@
           "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
           "icon": "/assets/favicon_1769089808888.ico",
           "enabled": true
+        },
+        {
+          "id": "1769092697844",
+          "title": "软仓-软件下载",
+          "href": "https://www.ruancang.net/",
+          "description": "访问 www.ruancang.net软仓-软件下载",
+          "icon": "/assets/favicon_1769092728282.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

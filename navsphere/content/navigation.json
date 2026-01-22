@@ -683,6 +683,14 @@
           "description": "访问 pkgs.org-Linux 和 Unix 的软件包-下载",
           "icon": "/assets/favicon_1769093327419.png",
           "enabled": true
+        },
+        {
+          "id": "1769093379935",
+          "title": "refind-theme模板",
+          "href": "https://github.com/topics/refind-theme",
+          "description": "refind-theme模板",
+          "icon": "/assets/favicon_1769093410253.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

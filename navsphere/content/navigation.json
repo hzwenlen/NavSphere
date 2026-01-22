@@ -651,6 +651,14 @@
           "description": "访问 www.ruancang.net软仓-软件下载",
           "icon": "/assets/favicon_1769092728282.png",
           "enabled": true
+        },
+        {
+          "id": "1769092929326",
+          "title": "TrafficMonitor显示当前网速、CPU及内存利用率的桌面悬浮窗软件",
+          "href": "https://github.com/zhongyang219/TrafficMonitor",
+          "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。. Contribute to zhongyang219/TrafficMonitor development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1769092959542.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

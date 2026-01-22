@@ -659,6 +659,14 @@
           "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。. Contribute to zhongyang219/TrafficMonitor development by creating an account on GitHub.",
           "icon": "/assets/favicon_1769092959542.png",
           "enabled": true
+        },
+        {
+          "id": "1769093026159",
+          "title": "虚拟监控摄像机",
+          "href": "http://80c.cc/",
+          "description": "虚拟屏幕摄像机是一种纯软件电子屏幕监控方案",
+          "icon": "/assets/img_1769093090588.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

@@ -667,6 +667,14 @@
           "description": "虚拟屏幕摄像机是一种纯软件电子屏幕监控方案",
           "icon": "/assets/img_1769093090588.png",
           "enabled": true
+        },
+        {
+          "id": "1769093146378",
+          "title": "Wowza流媒体直播推流软件",
+          "href": "https://www.wowza.com/",
+          "description": "Wowza流媒体直播推流软件",
+          "icon": "/assets/favicon_1769093176509.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],

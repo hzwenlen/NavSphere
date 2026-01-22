@@ -831,6 +831,14 @@
               "description": "Batocera.linux是一个开源且完全免费的复古游戏发行版，可以复制到U盘或SD卡上，目的是在游戏期间或永久地将任何计算机/纳米计算机变成游戏机。",
               "icon": "/assets/favicon_1768483074807.png",
               "enabled": true
+            },
+            {
+              "id": "1769093510476",
+              "title": "小故事铺是一个专注于精选短篇故事的平台",
+              "href": "https://storynook.cn/",
+              "description": "小故事铺是专业的故事阅读平台，提供睡前故事、儿童故事、历史故事、恐怖故事、爱情故事、励志故事等各类精彩小故事。免费在线阅读，每日更新优质故事内容。",
+              "icon": "/assets/favicon_1769093540524.png",
+              "enabled": true
             }
           ]
         }

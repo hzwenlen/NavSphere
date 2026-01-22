@@ -675,6 +675,14 @@
           "description": "Wowza流媒体直播推流软件",
           "icon": "/assets/favicon_1769093176509.ico",
           "enabled": true
+        },
+        {
+          "id": "1769093297701",
+          "title": "Linux 和 Unix 的软件包-下载",
+          "href": "https://pkgs.org/",
+          "description": "访问 pkgs.org-Linux 和 Unix 的软件包-下载",
+          "icon": "/assets/favicon_1769093327419.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

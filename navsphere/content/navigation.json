@@ -150,6 +150,14 @@
               "description": "访问 www.lanzouo.com",
               "icon": "/assets/img_1768097963065.png",
               "enabled": true
+            },
+            {
+              "id": "1769346453934",
+              "title": "360 驱动大师",
+              "href": "https://dm.weishi.360.cn/",
+              "description": "访问 dm.weishi.360.cn-360 驱动大师",
+              "icon": "/assets/img_1769346639392.png",
+              "enabled": true
             }
           ]
         },

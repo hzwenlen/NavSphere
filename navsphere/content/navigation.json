@@ -545,6 +545,14 @@
           "description": "Komari 是一款轻量级的自托管服务器监控工具，旨在提供简单、高效的服务器性能监控解决方案。它支持通过 Web 界面查看服务器状态，并通过轻量级 Agent 收集数据。",
           "icon": "/assets/favicon_1768481418956.png",
           "enabled": true
+        },
+        {
+          "id": "1771649181739",
+          "title": "Waf-ce雷池-Web应用防火墙",
+          "href": "https://waf-ce.chaitin.cn/",
+          "description": "访问 waf-ce.chaitin.cn-Waf-ce雷池-Web应用防火墙",
+          "icon": "/assets/favicon_1771649189202.png",
+          "enabled": true
         }
       ],
       "subCategories": []

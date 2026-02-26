@@ -561,6 +561,14 @@
           "description": "GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本",
           "icon": "/assets/favicon_1772085531107.ico",
           "enabled": true
+        },
+        {
+          "id": "1772085873665",
+          "title": "Apache Guacamole®远程桌面html",
+          "href": "https://guacamole.apache.org/",
+          "description": "\nApache Guacamole 是一个无需客户端的远程桌面 网关。它支持 VNC、RDP 和 SSH 等标准协议。",
+          "icon": "/assets/favicon_1772085877811.svg",
+          "enabled": true
         }
       ],
       "subCategories": []

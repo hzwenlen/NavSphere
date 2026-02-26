@@ -707,6 +707,14 @@
           "description": "refind-theme模板",
           "icon": "/assets/favicon_1769093410253.png",
           "enabled": true
+        },
+        {
+          "id": "1772084324640",
+          "title": "双机热备_双机容错 ServHA Cluster_ Mirror",
+          "href": "https://www.microcolor.cn/",
+          "description": "访问 www.microcolor.cn-双机热备_双机容错 ServHA Cluster_ServHA Mirror_微彩华创",
+          "icon": "/assets/favicon_1772084329576.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

@@ -166,6 +166,14 @@
               "description": "Google Chrome 网络浏览器",
               "icon": "/assets/img_1772105927422.png",
               "enabled": true
+            },
+            {
+              "id": "1772106548989",
+              "title": "Google Chrome 网络浏览器",
+              "href": "https://www.google.cn/chrome",
+              "description": "得益于 Google 智能功能，Chrome 现在更易用、更安全，也更快速。",
+              "icon": "/assets/favicon_1772106554188.png",
+              "enabled": true
             }
           ]
         },

@@ -895,6 +895,14 @@
               "description": "访问 www.kkx.net-AutoCAD2022简体中文版 附破解补丁",
               "icon": "/assets/favicon_1769094570689.png",
               "enabled": true
+            },
+            {
+              "id": "1772084973186",
+              "title": "脚本之家_www.jb51.net",
+              "href": "https://www.jb51.net/",
+              "description": "脚本之家是国内专业的网站建设资源、脚本编程学习类网站",
+              "icon": "/assets/favicon_1772084977782.png",
+              "enabled": true
             }
           ]
         }

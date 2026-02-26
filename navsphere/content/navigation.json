@@ -715,6 +715,14 @@
           "description": "访问 www.microcolor.cn-双机热备_双机容错 ServHA Cluster_ServHA Mirror_微彩华创",
           "icon": "/assets/favicon_1772084329576.png",
           "enabled": true
+        },
+        {
+          "id": "1772084527127",
+          "title": "Osde 直播录播软件",
+          "href": "http://www.osde.com.cn/",
+          "description": "访问 www.osde.com.cn-Osde 直播录播软件",
+          "icon": "/assets/favicon_1772084531748.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

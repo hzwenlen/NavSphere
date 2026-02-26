@@ -723,6 +723,14 @@
           "description": "访问 www.osde.com.cn-Osde 直播录播软件",
           "icon": "/assets/favicon_1772084531748.png",
           "enabled": true
+        },
+        {
+          "id": "1772084620177",
+          "title": "LED店铺广告灯软件下载",
+          "href": "http://www.168led.com/",
+          "description": "访问 www.168led.com-LED店铺广告灯软件下载",
+          "icon": "/assets/favicon_1772084625070.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

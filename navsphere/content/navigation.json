@@ -739,6 +739,14 @@
           "description": "访问 www.168led.com-LED店铺广告灯软件下载",
           "icon": "/assets/favicon_1772084625070.png",
           "enabled": true
+        },
+        {
+          "id": "1772085586133",
+          "title": "通用视频下载浏览器扩展 - FetchV",
+          "href": "https://fetchv.net/zh-cn",
+          "description": "FetchV 是一款免费的网页视频下载扩展，支持 Chrome、Edge、Firefox 和其他浏览器，并支持大多数在线视频网站。",
+          "icon": "/assets/favicon_1772085589277.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

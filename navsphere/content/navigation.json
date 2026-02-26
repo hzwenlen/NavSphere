@@ -65,103 +65,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
-          "title": "新电脑主机",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "9_2",
-              "title": "华为浏览器 - 华为官网",
-              "href": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/mobileservices/browser/exe/HuaweiBrowser-12.1.4.300-signed.exe",
-              "description": "访问 consumer.huawei.com",
-              "icon": "/assets/favicon_1768051906994.png",
-              "enabled": true
-            },
-            {
-              "id": "9_4",
-              "title": "QQ输入法",
-              "href": "https://qq.pinyin.cn/",
-              "description": "访问 qq.pinyin.cn",
-              "icon": "/assets/favicon_1768051924452.png",
-              "enabled": true
-            },
-            {
-              "id": "1739871926277",
-              "title": "微信输入法-简洁好用打字快",
-              "href": "https://z.weixin.qq.com/",
-              "description": "访问 z.weixin.qq.com",
-              "icon": "/assets/favicon_1768051945592.png",
-              "enabled": true
-            },
-            {
-              "id": "1759046285125",
-              "title": "WPS-支持多人在线协作编辑Word、Excel和PPT文档_WPS官方网站",
-              "href": "https://www.wps.cn/",
-              "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。",
-              "icon": "/assets/favicon_1768051965753.png",
-              "enabled": true
-            },
-            {
-              "id": "1767270179513",
-              "title": "微信，是一个生活方式",
-              "href": "https://weixin.qq.com/",
-              "description": "一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。",
-              "icon": "/assets/favicon_1768051985337.ico",
-              "enabled": true
-            },
-            {
-              "id": "1767270240730",
-              "title": "QQ-轻松做自己",
-              "href": "https://im.qq.com/index/",
-              "description": "腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。",
-              "icon": "/assets/favicon_1768052001026.ico",
-              "enabled": true
-            },
-            {
-              "id": "1767270254519",
-              "title": "QQ影音下载官方网站",
-              "href": "https://origin.player.qq.com/",
-              "description": "访问 origin.player.qq.com",
-              "icon": "/assets/favicon_1768052017175.png",
-              "enabled": true
-            },
-            {
-              "id": "1767270422131",
-              "title": "Ashampoo驱动更新",
-              "href": "https://www.ashampoo.com/zh-cn/driver-updater",
-              "description": "访问 www.ashampoo.com",
-              "icon": "/assets/favicon_1768052042088.png",
-              "enabled": true
-            },
-            {
-              "id": "1767270570824",
-              "title": "360杀毒_首页",
-              "href": "https://sd.360.cn/",
-              "description": "访问 sd.360.cn",
-              "icon": "/assets/favicon_1768052210637.png",
-              "enabled": true
-            },
-            {
-              "id": "1767282338774",
-              "title": "微信输入法下载包-蓝奏下载6666",
-              "href": "https://www.lanzouo.com/b0czidr4f",
-              "description": "访问 www.lanzouo.com",
-              "icon": "/assets/img_1768097963065.png",
-              "enabled": true
-            },
-            {
-              "id": "1769346453934",
-              "title": "360 驱动大师",
-              "href": "https://dm.weishi.360.cn/",
-              "description": "访问 dm.weishi.360.cn-360 驱动大师",
-              "icon": "/assets/img_1769346639392.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
           "title": "启动盘工具",
           "icon": "Book",
@@ -361,6 +264,103 @@
               "href": "https://github.com/game1024/Speedy",
               "description": "访问 github.com",
               "icon": "/assets/favicon_1768052937060.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
+          "title": "新电脑主机",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "9_2",
+              "title": "华为浏览器 - 华为官网",
+              "href": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/mobileservices/browser/exe/HuaweiBrowser-12.1.4.300-signed.exe",
+              "description": "访问 consumer.huawei.com",
+              "icon": "/assets/favicon_1768051906994.png",
+              "enabled": true
+            },
+            {
+              "id": "9_4",
+              "title": "QQ输入法",
+              "href": "https://qq.pinyin.cn/",
+              "description": "访问 qq.pinyin.cn",
+              "icon": "/assets/favicon_1768051924452.png",
+              "enabled": true
+            },
+            {
+              "id": "1739871926277",
+              "title": "微信输入法-简洁好用打字快",
+              "href": "https://z.weixin.qq.com/",
+              "description": "访问 z.weixin.qq.com",
+              "icon": "/assets/favicon_1768051945592.png",
+              "enabled": true
+            },
+            {
+              "id": "1759046285125",
+              "title": "WPS-支持多人在线协作编辑Word、Excel和PPT文档_WPS官方网站",
+              "href": "https://www.wps.cn/",
+              "description": "金山文档,全新一代云Office办公软件,支持多人在线协同办公,实时协作，并设置文档访问、编辑权限。独有内容级安全，全程留痕可追溯.PC/移动双端覆盖,随时随地在线协同办公,在线文档即写即存统一管理,高效共享文档、表格。",
+              "icon": "/assets/favicon_1768051965753.png",
+              "enabled": true
+            },
+            {
+              "id": "1767270179513",
+              "title": "微信，是一个生活方式",
+              "href": "https://weixin.qq.com/",
+              "description": "一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。",
+              "icon": "/assets/favicon_1768051985337.ico",
+              "enabled": true
+            },
+            {
+              "id": "1767270240730",
+              "title": "QQ-轻松做自己",
+              "href": "https://im.qq.com/index/",
+              "description": "腾讯QQ，全新版本QQ9上线了！ QQ9，不仅是轻松聊天，更是兴趣社区的聚集地。欢迎下载体验最新版本QQ，体验最新功能！欢迎访问QQ官网，下载新版QQ，了解QQ最新功能就在im.qq.com。",
+              "icon": "/assets/favicon_1768052001026.ico",
+              "enabled": true
+            },
+            {
+              "id": "1767270254519",
+              "title": "QQ影音下载官方网站",
+              "href": "https://origin.player.qq.com/",
+              "description": "访问 origin.player.qq.com",
+              "icon": "/assets/favicon_1768052017175.png",
+              "enabled": true
+            },
+            {
+              "id": "1767270422131",
+              "title": "Ashampoo驱动更新",
+              "href": "https://www.ashampoo.com/zh-cn/driver-updater",
+              "description": "访问 www.ashampoo.com",
+              "icon": "/assets/favicon_1768052042088.png",
+              "enabled": true
+            },
+            {
+              "id": "1767270570824",
+              "title": "360杀毒_首页",
+              "href": "https://sd.360.cn/",
+              "description": "访问 sd.360.cn",
+              "icon": "/assets/favicon_1768052210637.png",
+              "enabled": true
+            },
+            {
+              "id": "1767282338774",
+              "title": "微信输入法下载包-蓝奏下载6666",
+              "href": "https://www.lanzouo.com/b0czidr4f",
+              "description": "访问 www.lanzouo.com",
+              "icon": "/assets/img_1768097963065.png",
+              "enabled": true
+            },
+            {
+              "id": "1769346453934",
+              "title": "360 驱动大师",
+              "href": "https://dm.weishi.360.cn/",
+              "description": "访问 dm.weishi.360.cn-360 驱动大师",
+              "icon": "/assets/img_1769346639392.png",
               "enabled": true
             }
           ]

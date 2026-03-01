@@ -779,6 +779,14 @@
           "description": "FetchV 是一款免费的网页视频下载扩展，支持 Chrome、Edge、Firefox 和其他浏览器，并支持大多数在线视频网站。",
           "icon": "/assets/favicon_1772085589277.png",
           "enabled": true
+        },
+        {
+          "id": "1772365913518",
+          "title": "lenovo-Quick-Fix:局域网共享工具",
+          "href": "https://iknow.lenovo.com.cn/detail/188723",
+          "description": "访问 iknow.lenovo.com.cn-lenovo-Quick-Fix:局域网共享开启工具",
+          "icon": "https://iknow.lenovo.com.cn/img/logo.68f8f085.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

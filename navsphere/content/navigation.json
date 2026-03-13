@@ -787,6 +787,14 @@
           "description": "访问 iknow.lenovo.com.cn-lenovo-Quick-Fix:局域网共享开启工具",
           "icon": "https://iknow.lenovo.com.cn/img/logo.68f8f085.png",
           "enabled": true
+        },
+        {
+          "id": "1773405204717",
+          "title": "中维高清监控系统(JNVR)",
+          "href": "http://www.jovision.com/",
+          "description": "访问 www.jovision.com-中维高清监控系统(JNVR)",
+          "icon": "/assets/favicon_1773405209805.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

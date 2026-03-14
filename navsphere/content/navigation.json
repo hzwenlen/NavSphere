@@ -795,6 +795,14 @@
           "description": "访问 www.jovision.com-中维高清监控系统(JNVR)",
           "icon": "/assets/favicon_1773405209805.png",
           "enabled": true
+        },
+        {
+          "id": "1773514055306",
+          "title": "Disk2vhd -Microsoft 虚拟机磁盘格式",
+          "href": "https://learn.microsoft.com/zh-cn/sysinternals/downloads/disk2vhd",
+          "description": "Disk2vhd 简化了将物理系统迁移到虚拟机的过程。",
+          "icon": "/assets/favicon_1773514061582.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

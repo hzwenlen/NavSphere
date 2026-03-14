@@ -967,6 +967,14 @@
               "description": "脚本之家是国内专业的网站建设资源、脚本编程学习类网站",
               "icon": "/assets/favicon_1772084977782.png",
               "enabled": true
+            },
+            {
+              "id": "1773509891822",
+              "title": "蓝灯 |  开启完整的互联网",
+              "href": "https://lantern.io",
+              "description": "从任何地点体验快速，可靠和安全的访问任何内容。",
+              "icon": "/assets/favicon_1773509897432.ico",
+              "enabled": true
             }
           ]
         }

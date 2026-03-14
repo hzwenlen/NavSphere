@@ -803,6 +803,14 @@
           "description": "Disk2vhd 简化了将物理系统迁移到虚拟机的过程。",
           "icon": "/assets/favicon_1773514061582.png",
           "enabled": true
+        },
+        {
+          "id": "1773514555904",
+          "title": "Sysinternals - 微软官方软件工具下载",
+          "href": "https://www.sysinternals.com",
+          "description": "Sysinternals 实用程序安装、部署和维护 Windows。",
+          "icon": "/assets/favicon_1773514563709.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

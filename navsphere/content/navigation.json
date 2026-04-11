@@ -819,6 +819,14 @@
           "description": "访问 d7937a14.pinme.dev",
           "icon": "/assets/favicon_1775909138418.ico",
           "enabled": true
+        },
+        {
+          "id": "1775909194786",
+          "title": "PinMe | 仅需几秒，即可发布网站",
+          "href": "https://pinme.eth.limo/",
+          "description": "仅需几秒，即可发布网站",
+          "icon": "/assets/favicon_1775909217604.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],

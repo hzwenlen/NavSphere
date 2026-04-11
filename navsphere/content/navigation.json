@@ -811,6 +811,14 @@
           "description": "Sysinternals 实用程序安装、部署和维护 Windows。",
           "icon": "/assets/favicon_1773514563709.png",
           "enabled": true
+        },
+        {
+          "id": "1775908963401",
+          "title": "Git-2.53.0",
+          "href": "https://d7937a14.pinme.dev",
+          "description": "访问 d7937a14.pinme.dev",
+          "icon": "/assets/favicon_1775909138418.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],

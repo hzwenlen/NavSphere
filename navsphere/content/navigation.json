@@ -378,6 +378,14 @@
               "description": "访问 www.motrix.app",
               "icon": "/assets/favicon_1768052916568.png",
               "enabled": true
+            },
+            {
+              "id": "1775988382826",
+              "title": "DirectX修复工具",
+              "href": "https://blog.csdn.net/vbcom/article/details/6962388",
+              "description": "DirectX修复工具",
+              "icon": "/assets/favicon_1775988398352.png",
+              "enabled": true
             }
           ]
         }

@@ -284,6 +284,23 @@
           ]
         },
         {
+          "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
+          "title": "安装程序收集",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1767357563886",
+              "title": "Speedy[一款开源的游戏变速器]",
+              "href": "https://github.com/game1024/Speedy",
+              "description": "访问 github.com",
+              "icon": "/assets/favicon_1768052937060.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
           "title": "系统优化工具",
           "icon": "BookOpen",
@@ -360,23 +377,6 @@
               "href": "https://www.motrix.app/",
               "description": "访问 www.motrix.app",
               "icon": "/assets/favicon_1768052916568.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
-          "title": "安装程序收集",
-          "icon": "Book",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1767357563886",
-              "title": "Speedy[一款开源的游戏变速器]",
-              "href": "https://github.com/game1024/Speedy",
-              "description": "访问 github.com",
-              "icon": "/assets/favicon_1768052937060.png",
               "enabled": true
             }
           ]

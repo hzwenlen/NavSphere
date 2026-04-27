@@ -182,6 +182,14 @@
               "description": "访问 www.winrar.com",
               "icon": "/assets/favicon_1777289473640.png",
               "enabled": true
+            },
+            {
+              "id": "1777289496004",
+              "title": "Winrar国内网站",
+              "href": "https://www.winrar.com.cn/",
+              "description": "访问 www.winrar.com.cn",
+              "icon": "/assets/favicon_1777289514425.png",
+              "enabled": true
             }
           ]
         },

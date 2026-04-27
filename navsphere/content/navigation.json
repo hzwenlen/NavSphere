@@ -537,7 +537,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3dee4d82-000b-406f-9f86-30f34c819343",
+          "title": "windows",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1768125086289",

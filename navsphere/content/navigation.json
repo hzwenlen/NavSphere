@@ -553,6 +553,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "960df839-8140-47bc-8417-85e4965ed1fb",
+          "title": "无盘系统",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

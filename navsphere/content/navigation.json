@@ -174,6 +174,14 @@
               "description": "得益于 Google 智能功能，Chrome 现在更易用、更安全，也更快速。",
               "icon": "/assets/favicon_1772106554188.png",
               "enabled": true
+            },
+            {
+              "id": "1777289389296",
+              "title": "Winrar国外网站",
+              "href": "https://www.winrar.com",
+              "description": "访问 www.winrar.com",
+              "icon": "/assets/favicon_1777289473640.png",
+              "enabled": true
             }
           ]
         },

@@ -426,6 +426,14 @@
               "description": "访问 www.aomeikeji.com傲梅科技",
               "icon": "/assets/favicon_1777290836843.png",
               "enabled": true
+            },
+            {
+              "id": "1777296765294",
+              "title": "DirectX修复工具",
+              "href": "https://www.zysoftware.top/",
+              "description": "DirectX修复工具",
+              "icon": "/assets/img_1777296868303.png",
+              "enabled": true
             }
           ]
         }

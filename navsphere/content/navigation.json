@@ -463,14 +463,6 @@
           "description": "Optimize cloud infrastructure with VMware for app platforms, private cloud, edge, networking, and security.",
           "icon": "/assets/favicon_1768124910879.png",
           "enabled": true
-        },
-        {
-          "id": "1772086518472",
-          "title": "Pkgs-Linux 和 Unix 的软件包",
-          "href": "https://pkgs.org/",
-          "description": "访问 pkgs.org-Linux 和 Unix 的软件包",
-          "icon": "/assets/favicon_1772086523187.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -536,6 +528,14 @@
               "href": "https://www.anduinos.com/",
               "description": "",
               "icon": "/assets/favicon_1768053084029.svg",
+              "enabled": true
+            },
+            {
+              "id": "1772086518472",
+              "title": "Pkgs-Linux 和 Unix 的软件包",
+              "href": "https://pkgs.org/",
+              "description": "访问 pkgs.org-Linux 和 Unix 的软件包",
+              "icon": "/assets/favicon_1772086523187.png",
               "enabled": true
             }
           ]

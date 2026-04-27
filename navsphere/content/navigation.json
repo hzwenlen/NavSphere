@@ -449,14 +449,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1767273820027",
-          "title": "如何下载和安装 macOS - 官方 Apple 支持 (中国)",
-          "href": "https://support.apple.com/zh-cn/102662",
-          "description": "在兼容的 Mac 电脑上下载并安装最新或以前版本的 Mac 操作系统。",
-          "icon": "/assets/favicon_1768053100421.ico",
-          "enabled": true
-        },
-        {
           "id": "1768124587762",
           "title": "virtualbox Oracle虚拟机",
           "href": "https://download.virtualbox.org/virtualbox/",
@@ -749,6 +741,14 @@
           "href": "https://baijiahao.baidu.com/s?id=1724353507364359686",
           "description": "访问 baijiahao.baidu.com",
           "icon": "/assets/favicon_1768053295698.png",
+          "enabled": true
+        },
+        {
+          "id": "1767273820027",
+          "title": "如何下载和安装 macOS - 官方 Apple 支持 (中国)",
+          "href": "https://support.apple.com/zh-cn/102662",
+          "description": "在兼容的 Mac 电脑上下载并安装最新或以前版本的 Mac 操作系统。",
+          "icon": "/assets/favicon_1768053100421.ico",
           "enabled": true
         }
       ],

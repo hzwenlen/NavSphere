@@ -457,14 +457,6 @@
           "enabled": true
         },
         {
-          "id": "1767273546318",
-          "title": "下载 Windows 10",
-          "href": "https://www.microsoft.com/zh-cn/software-download/windows10/",
-          "description": "",
-          "icon": "/assets/favicon_1768053024771.ico",
-          "enabled": true
-        },
-        {
           "id": "1767273623219",
           "title": "Zorin 最像windows的linux系统",
           "href": "https://zorin.com/",
@@ -543,6 +535,14 @@
               "href": "https://www.microsoft.com/zh-cn/software-download/windows11",
               "description": "",
               "icon": "/assets/favicon_1768053035905.ico",
+              "enabled": true
+            },
+            {
+              "id": "1767273546318",
+              "title": "下载 Windows 10",
+              "href": "https://www.microsoft.com/zh-cn/software-download/windows10/",
+              "description": "",
+              "icon": "/assets/favicon_1768053024771.ico",
               "enabled": true
             }
           ]

@@ -449,14 +449,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1767273623219",
-          "title": "Zorin 最像windows的linux系统",
-          "href": "https://zorin.com/",
-          "description": "The creators of Zorin OS, the alternative to Windows and macOS designed to make your computer faster, more powerful, secure, and privacy-respecting.",
-          "icon": "/assets/favicon_1768053052187.png",
-          "enabled": true
-        },
-        {
           "id": "1767273692795",
           "title": "Winux Operating System - Linux With Windows Appearance by Linuxfx",
           "href": "https://winuxos.org/",
@@ -553,7 +545,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1767273623219",
+              "title": "Zorin 最像windows的linux系统",
+              "href": "https://zorin.com/",
+              "description": "The creators of Zorin OS, the alternative to Windows and macOS designed to make your computer faster, more powerful, secure, and privacy-respecting.",
+              "icon": "/assets/favicon_1768053052187.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "960df839-8140-47bc-8417-85e4965ed1fb",

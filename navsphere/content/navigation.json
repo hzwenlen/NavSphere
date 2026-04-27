@@ -545,6 +545,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "97294b1f-c97a-42c0-be00-7fc29c718a57",
+          "title": "linux",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },

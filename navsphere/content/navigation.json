@@ -465,14 +465,6 @@
           "enabled": true
         },
         {
-          "id": "1767273578927",
-          "title": "下载 Windows 11",
-          "href": "https://www.microsoft.com/zh-cn/software-download/windows11",
-          "description": "",
-          "icon": "/assets/favicon_1768053035905.ico",
-          "enabled": true
-        },
-        {
           "id": "1767273623219",
           "title": "Zorin 最像windows的linux系统",
           "href": "https://zorin.com/",
@@ -544,7 +536,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1767273578927",
+              "title": "下载 Windows 11",
+              "href": "https://www.microsoft.com/zh-cn/software-download/windows11",
+              "description": "",
+              "icon": "/assets/favicon_1768053035905.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "97294b1f-c97a-42c0-be00-7fc29c718a57",

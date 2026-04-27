@@ -449,14 +449,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1767273692795",
-          "title": "Winux Operating System - Linux With Windows Appearance by Linuxfx",
-          "href": "https://winuxos.org/",
-          "description": "Winux by Linuxfx is a fast and secure Linux-based OS with Windows 10/11 interface. No TPM or Secure Boot required. Native Windows apps support through Wine.",
-          "icon": "/assets/favicon_1768053070659.png",
-          "enabled": true
-        },
-        {
           "id": "1767273744719",
           "title": "Linux | AnduinOS",
           "href": "https://www.anduinos.com/",
@@ -552,6 +544,14 @@
               "href": "https://zorin.com/",
               "description": "The creators of Zorin OS, the alternative to Windows and macOS designed to make your computer faster, more powerful, secure, and privacy-respecting.",
               "icon": "/assets/favicon_1768053052187.png",
+              "enabled": true
+            },
+            {
+              "id": "1767273692795",
+              "title": "Winux Operating System - Linux With Windows Appearance by Linuxfx",
+              "href": "https://winuxos.org/",
+              "description": "Winux by Linuxfx is a fast and secure Linux-based OS with Windows 10/11 interface. No TPM or Secure Boot required. Native Windows apps support through Wine.",
+              "icon": "/assets/favicon_1768053070659.png",
               "enabled": true
             }
           ]

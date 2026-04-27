@@ -402,6 +402,14 @@
               "description": "DirectX修复工具",
               "icon": "/assets/favicon_1775988398352.png",
               "enabled": true
+            },
+            {
+              "id": "1777290631368",
+              "title": "Disktool傲梅分区助手",
+              "href": "https://www.disktool.cn/",
+              "description": "访问 www.disktool.cn傲梅分区助手",
+              "icon": "/assets/favicon_1777290637897.png",
+              "enabled": true
             }
           ]
         }

@@ -465,14 +465,6 @@
           "enabled": true
         },
         {
-          "id": "1768481542587",
-          "title": "如何重新安装 macOS - 官方 Apple 支持 (中国)",
-          "href": "https://support.apple.com/zh-cn/102655",
-          "description": "使用电脑的内建恢复系统“macOS 恢复”来重新安装 Mac 操作系统。",
-          "icon": "/assets/favicon_1768481557710.ico",
-          "enabled": true
-        },
-        {
           "id": "1772086518472",
           "title": "Pkgs-Linux 和 Unix 的软件包",
           "href": "https://pkgs.org/",
@@ -749,6 +741,14 @@
           "href": "https://support.apple.com/zh-cn/102662",
           "description": "在兼容的 Mac 电脑上下载并安装最新或以前版本的 Mac 操作系统。",
           "icon": "/assets/favicon_1768053100421.ico",
+          "enabled": true
+        },
+        {
+          "id": "1768481542587",
+          "title": "如何重新安装 macOS - 官方 Apple 支持 (中国)",
+          "href": "https://support.apple.com/zh-cn/102655",
+          "description": "使用电脑的内建恢复系统“macOS 恢复”来重新安装 Mac 操作系统。",
+          "icon": "/assets/favicon_1768481557710.ico",
           "enabled": true
         }
       ],

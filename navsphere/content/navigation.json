@@ -410,6 +410,14 @@
               "description": "访问 www.disktool.cn傲梅分区助手",
               "icon": "/assets/favicon_1777290637897.png",
               "enabled": true
+            },
+            {
+              "id": "1777290664592",
+              "title": "Aomei傲梅科技",
+              "href": "https://www.aomeikeji.com/",
+              "description": "访问 www.aomeikeji.com傲梅科技",
+              "icon": "/assets/favicon_1777290836843.png",
+              "enabled": true
             }
           ]
         }

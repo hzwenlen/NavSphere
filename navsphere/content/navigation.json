@@ -570,6 +570,14 @@
               "description": "遥志无盘软件CCBoot，是一款功能强大、安全稳定的软件。",
               "icon": "/assets/favicon_1777377554895.png",
               "enabled": true
+            },
+            {
+              "id": "1777378235258",
+              "title": "VHD虚拟磁盘管理系统",
+              "href": "http://www.vhdsoft.cn/",
+              "description": "访问 www.vhdsoft.cn",
+              "icon": "/assets/favicon_1777378244944.png",
+              "enabled": true
             }
           ]
         }

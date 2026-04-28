@@ -578,6 +578,14 @@
               "description": "访问 www.vhdsoft.cn",
               "icon": "/assets/favicon_1777378244944.png",
               "enabled": true
+            },
+            {
+              "id": "1777379227962",
+              "title": "网众无盘系统",
+              "href": "http://www.netzonesoft.com/",
+              "description": "网众无盘系统",
+              "icon": "/assets/favicon_1777379237129.png",
+              "enabled": true
             }
           ]
         }

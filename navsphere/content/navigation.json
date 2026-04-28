@@ -594,6 +594,14 @@
               "description": "云更新 专业高效的网吧数字内容管理软件",
               "icon": "/assets/favicon_1777379316470.ico",
               "enabled": true
+            },
+            {
+              "id": "1777379523242",
+              "title": "易乐游",
+              "href": "https://www.yileyoo.com/",
+              "description": "访问 www.yileyoo.com",
+              "icon": "https://resource.yileyoo.com/home/images/logo_new.png",
+              "enabled": true
             }
           ]
         }

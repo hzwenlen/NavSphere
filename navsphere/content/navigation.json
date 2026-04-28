@@ -610,6 +610,14 @@
               "description": "顺网网维产品官网是顺网进行网吧维护产品发布的官方网站。",
               "icon": "/assets/favicon_1777379666133.ico",
               "enabled": true
+            },
+            {
+              "id": "1777380499277",
+              "title": "斯普林无盘",
+              "href": "http://www.mzdchina.com/",
+              "description": "访问 www.mzdchina.com斯普林无盘",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.mzdchina.com",
+              "enabled": true
             }
           ]
         }

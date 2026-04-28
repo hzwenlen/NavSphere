@@ -562,6 +562,14 @@
               "description": "访问 www.isharedisk.com",
               "icon": "http://www.isharedisk.com/images/img_05.jpg",
               "enabled": true
+            },
+            {
+              "id": "1777377547269",
+              "title": "遥志无盘系统",
+              "href": "https://cn.ccboot.com/",
+              "description": "遥志无盘软件CCBoot，是一款功能强大、安全稳定的软件。",
+              "icon": "/assets/favicon_1777377554895.png",
+              "enabled": true
             }
           ]
         }

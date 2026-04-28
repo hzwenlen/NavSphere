@@ -586,6 +586,14 @@
               "description": "网众无盘系统",
               "icon": "/assets/favicon_1777379237129.png",
               "enabled": true
+            },
+            {
+              "id": "1777379307359",
+              "title": "成都领之锋_云更新官方网站",
+              "href": "https://yungengxin.com/",
+              "description": "云更新 专业高效的网吧数字内容管理软件",
+              "icon": "/assets/favicon_1777379316470.ico",
+              "enabled": true
             }
           ]
         }

@@ -546,7 +546,16 @@
           "icon": "Network",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1777377059046",
+              "title": "锐起无盘系统",
+              "href": "http://www.richtech.net.cn/",
+              "description": "访问 www.richtech.net.cn",
+              "icon": "/assets/favicon_1777377069092.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },

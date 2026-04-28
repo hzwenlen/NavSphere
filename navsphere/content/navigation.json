@@ -602,6 +602,14 @@
               "description": "访问 www.yileyoo.com",
               "icon": "https://resource.yileyoo.com/home/images/logo_new.png",
               "enabled": true
+            },
+            {
+              "id": "1777379654128",
+              "title": "顺网科技-网维大师",
+              "href": "https://www.icafe8.com/",
+              "description": "顺网网维产品官网是顺网进行网吧维护产品发布的官方网站。",
+              "icon": "/assets/favicon_1777379666133.ico",
+              "enabled": true
             }
           ]
         }

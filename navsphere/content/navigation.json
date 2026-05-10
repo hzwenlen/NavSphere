@@ -983,6 +983,14 @@
           "description": "仅需几秒，即可发布网站",
           "icon": "/assets/favicon_1775909217604.ico",
           "enabled": true
+        },
+        {
+          "id": "1778407452779",
+          "title": "Winamp 5.9.2 Released - Winamp & Shoutcast Forums",
+          "href": "https://forums.winamp.com/forum/winamp/winamp-discussion/4615655-winamp-5-9-2-released",
+          "description": "Winamp 5.9.2 Build 10042\n\nWinamp 5.9.2\n",
+          "icon": "/assets/favicon_1778407458435.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],

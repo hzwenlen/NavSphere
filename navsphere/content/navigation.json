@@ -991,6 +991,14 @@
           "description": "Winamp 5.9.2 Build 10042\n\nWinamp 5.9.2\n",
           "icon": "/assets/favicon_1778407458435.ico",
           "enabled": true
+        },
+        {
+          "id": "1779294764271",
+          "title": "迅雷云盘-魔改4060显卡驱动",
+          "href": "https://pan.xunlei.com/s/VOt5DUf2SldBym1ltxH9FPUEA1?pwd=v8qb",
+          "description": "迅雷云盘迅雷云盘-魔改4060显卡驱动",
+          "icon": "/assets/favicon_1779294798454.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

@@ -434,6 +434,14 @@
               "description": "DirectX修复工具",
               "icon": "/assets/img_1777296868303.png",
               "enabled": true
+            },
+            {
+              "id": "1780579895549",
+              "title": "硬件信息检测工具 | NWinfo",
+              "href": "https://a1ive.github.io/nwinfo/",
+              "description": "Hardware information utility for Windows",
+              "icon": "/assets/favicon_1780579912426.png",
+              "enabled": true
             }
           ]
         }

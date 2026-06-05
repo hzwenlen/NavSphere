@@ -263,6 +263,14 @@
               "description": "访问 www.tbtool.cn",
               "icon": "/assets/favicon_1768052409499.png",
               "enabled": true
+            },
+            {
+              "id": "1780682536038",
+              "title": "无忧启动-PE工具大家",
+              "href": "https://bbs.wuyou.net/",
+              "description": "访问 bbs.wuyou.net",
+              "icon": "/assets/favicon_1780682540897.png",
+              "enabled": true
             }
           ]
         },

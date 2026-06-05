@@ -60,6 +60,14 @@
           "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
           "icon": "/assets/favicon_1777295462847.png",
           "enabled": true
+        },
+        {
+          "id": "1780685562028",
+          "title": "网站健康监控-测试-学习-Status page",
+          "href": "https://stats.uptimerobot.com/a3m6Qr6fSN",
+          "description": "网站健康监控-测试-学习-Status page",
+          "icon": "/assets/favicon_1780685567613.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],

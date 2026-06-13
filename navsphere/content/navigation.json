@@ -68,6 +68,14 @@
           "description": "网站健康监控-测试-学习-Status page",
           "icon": "/assets/favicon_1780685567613.ico",
           "enabled": true
+        },
+        {
+          "id": "1768482552527",
+          "title": "Diy-京东装机大师平台",
+          "href": "https://diy.jd.com/",
+          "description": "访问 diy.jd.com-Diy-京东装机大师平台",
+          "icon": "/assets/img_1781357334306.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
@@ -1130,14 +1138,6 @@
               "href": "https://flac.music.hi.cn/",
               "description": "访问 flac.music.hi.cn无损音乐下载",
               "icon": "/assets/favicon_1768482502927.png",
-              "enabled": true
-            },
-            {
-              "id": "1768482552527",
-              "title": "Diy-京东装机大师平台",
-              "href": "https://diy.jd.com/",
-              "description": "访问 diy.jd.com-Diy-京东装机大师平台",
-              "icon": "/assets/img_1781357334306.png",
               "enabled": true
             },
             {

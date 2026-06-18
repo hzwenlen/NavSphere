@@ -1031,6 +1031,14 @@
           "description": "迅雷云盘迅雷云盘-魔改4060显卡驱动",
           "icon": "/assets/favicon_1779294798454.png",
           "enabled": true
+        },
+        {
+          "id": "1781810537780",
+          "title": "Advanced IP Scanner – 免费下载网络扫描程序",
+          "href": "https://www.advanced-ip-scanner.com/",
+          "description": "Advanced IP Scanner 可显示所有网络设备，使您能够访问共享文件夹，甚至还能够远程关闭计算机。免费下载该程序。",
+          "icon": "/assets/favicon_1781810543099.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],

@@ -1039,6 +1039,14 @@
           "description": "Advanced IP Scanner 可显示所有网络设备，使您能够访问共享文件夹，甚至还能够远程关闭计算机。免费下载该程序。",
           "icon": "/assets/favicon_1781810543099.svg",
           "enabled": true
+        },
+        {
+          "id": "1782666669821",
+          "title": "Hibitsoft电脑管理工具",
+          "href": "https://www.hibitsoft.ir/",
+          "description": "访问 www.hibitsoft.ir-Hibitsoft电脑管理工具",
+          "icon": "/assets/favicon_1782666699167.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

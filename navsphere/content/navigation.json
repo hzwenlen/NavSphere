@@ -1047,6 +1047,14 @@
           "description": "访问 www.hibitsoft.ir-Hibitsoft电脑管理工具",
           "icon": "/assets/favicon_1782666699167.png",
           "enabled": true
+        },
+        {
+          "id": "1785118242857",
+          "title": "Oray花生壳",
+          "href": "https://www.oray.com/",
+          "description": "访问 www.oray.com",
+          "icon": "/assets/favicon_1785118249686.png",
+          "enabled": true
         }
       ],
       "subCategories": [],

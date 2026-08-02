@@ -287,6 +287,14 @@
               "description": "访问 bbs.wuyou.net",
               "icon": "/assets/favicon_1780682540897.png",
               "enabled": true
+            },
+            {
+              "id": "1785670168793",
+              "title": "HotPE - 一个纯净、强大、优雅的PE工具箱",
+              "href": "https://www.hotpe.top/",
+              "description": "HotPE 工具箱-全新 Win11 内核-真正的纯净、无广告、无劫持、无后门",
+              "icon": "/assets/favicon_1785670183800.ico",
+              "enabled": true
             }
           ]
         },

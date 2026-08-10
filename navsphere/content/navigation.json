@@ -781,6 +781,14 @@
           "description": "A self-hosted monitoring tool-平台监控",
           "icon": "/assets/favicon_1786335789529.svg",
           "enabled": true
+        },
+        {
+          "id": "1786336509644",
+          "title": "Dbsyncer多源异构数据同步平台",
+          "href": "https://dbsyncer.cn/",
+          "description": "访问 dbsyncer.cn多源异构数据同步平台",
+          "icon": "/assets/favicon_1786336517507.png",
+          "enabled": true
         }
       ],
       "subCategories": []

@@ -773,6 +773,14 @@
           "description": "\nApache Guacamole 是一个无需客户端的远程桌面 网关。它支持 VNC、RDP 和 SSH 等标准协议。",
           "icon": "/assets/favicon_1772085877811.svg",
           "enabled": true
+        },
+        {
+          "id": "1786335784026",
+          "title": "Uptime Kuma 平台监控",
+          "href": "https://uptime.kuma.pet/",
+          "description": "A self-hosted monitoring tool-平台监控",
+          "icon": "/assets/favicon_1786335789529.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
